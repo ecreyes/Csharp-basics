@@ -1,0 +1,11 @@
+C:\Users\Eduardo\Desktop\tutorial C#\Conditional and loops\Conditional and loops\bin\Debug\netcoreapp3.1\Conditional and loops.exe
+C:\Users\Eduardo\Desktop\tutorial C#\Conditional and loops\Conditional and loops\bin\Debug\netcoreapp3.1\Conditional and loops.deps.json
+C:\Users\Eduardo\Desktop\tutorial C#\Conditional and loops\Conditional and loops\bin\Debug\netcoreapp3.1\Conditional and loops.runtimeconfig.json
+C:\Users\Eduardo\Desktop\tutorial C#\Conditional and loops\Conditional and loops\bin\Debug\netcoreapp3.1\Conditional and loops.runtimeconfig.dev.json
+C:\Users\Eduardo\Desktop\tutorial C#\Conditional and loops\Conditional and loops\bin\Debug\netcoreapp3.1\Conditional and loops.dll
+C:\Users\Eduardo\Desktop\tutorial C#\Conditional and loops\Conditional and loops\bin\Debug\netcoreapp3.1\Conditional and loops.pdb
+C:\Users\Eduardo\Desktop\tutorial C#\Conditional and loops\Conditional and loops\obj\Debug\netcoreapp3.1\Conditional and loops.csprojAssemblyReference.cache
+C:\Users\Eduardo\Desktop\tutorial C#\Conditional and loops\Conditional and loops\obj\Debug\netcoreapp3.1\Conditional and loops.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Desktop\tutorial C#\Conditional and loops\Conditional and loops\obj\Debug\netcoreapp3.1\Conditional and loops.AssemblyInfo.cs
+C:\Users\Eduardo\Desktop\tutorial C#\Conditional and loops\Conditional and loops\obj\Debug\netcoreapp3.1\Conditional and loops.dll
+C:\Users\Eduardo\Desktop\tutorial C#\Conditional and loops\Conditional and loops\obj\Debug\netcoreapp3.1\Conditional and loops.pdb

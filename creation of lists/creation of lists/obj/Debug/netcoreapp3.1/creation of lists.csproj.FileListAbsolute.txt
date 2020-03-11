@@ -1,0 +1,10 @@
+C:\Users\Eduardo\Desktop\tutorial C#\creation of lists\creation of lists\bin\Debug\netcoreapp3.1\creation of lists.exe
+C:\Users\Eduardo\Desktop\tutorial C#\creation of lists\creation of lists\bin\Debug\netcoreapp3.1\creation of lists.deps.json
+C:\Users\Eduardo\Desktop\tutorial C#\creation of lists\creation of lists\bin\Debug\netcoreapp3.1\creation of lists.runtimeconfig.json
+C:\Users\Eduardo\Desktop\tutorial C#\creation of lists\creation of lists\bin\Debug\netcoreapp3.1\creation of lists.runtimeconfig.dev.json
+C:\Users\Eduardo\Desktop\tutorial C#\creation of lists\creation of lists\bin\Debug\netcoreapp3.1\creation of lists.dll
+C:\Users\Eduardo\Desktop\tutorial C#\creation of lists\creation of lists\bin\Debug\netcoreapp3.1\creation of lists.pdb
+C:\Users\Eduardo\Desktop\tutorial C#\creation of lists\creation of lists\obj\Debug\netcoreapp3.1\creation of lists.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Desktop\tutorial C#\creation of lists\creation of lists\obj\Debug\netcoreapp3.1\creation of lists.AssemblyInfo.cs
+C:\Users\Eduardo\Desktop\tutorial C#\creation of lists\creation of lists\obj\Debug\netcoreapp3.1\creation of lists.dll
+C:\Users\Eduardo\Desktop\tutorial C#\creation of lists\creation of lists\obj\Debug\netcoreapp3.1\creation of lists.pdb
